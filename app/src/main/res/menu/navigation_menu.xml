@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/primary_menu">
+        <item
+            android:id="@+id/dnav_home"
+            android:title="Home"/>
+
+        <item
+            android:id="@+id/dnav_matches"
+            android:title="Matches"/>
+
+        <item
+            android:id="@+id/dnav_club"
+            android:title="Club News"/>
+
+        <item
+            android:id="@+id/dnav_shop"
+            android:title="Shop"/>
+
+        <item
+            android:id="@+id/dnav_membership"
+            android:title="Membership Payment"/>
+
+        <item
+            android:id="@+id/dnav_contact"
+            android:title="Contact team"/>
+    </group>
+
+    <group android:id="@+id/secondary_menu">
+        <item
+            android:id="@+id/dnav_setting"
+            android:title="Setting"/>
+
+        <item
+            android:id="@+id/dnav_About"
+            android:title="About"/>
+
+    </group>
+</menu>

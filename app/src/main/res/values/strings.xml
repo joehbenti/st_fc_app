@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">St.Giorgis</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum laoreet felis, a mattis est mollis imperdiet. Sed non nisi tempus</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="long_dumby_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
+interdum laoreet felis, a mattis est mollis imperdiet. Sed non nisi
+tempus, euismod tellus vel, rutrum velit. Sed in lorem elementum,
+suscipit elit a, blandit ante. Nulla vitae ultricies urna. Maecenas
+laoreet est at sem egestas convallis. Mauris auctor tortor diam, id
+vulputate purus tristique ut. Nunc fermentum mauris condimentum
+maximus suscipit.
+
+Nullam risus nunc, consectetur sed venenatis vitae, lobortis
+interdum est. Donec ac massa eros. Sed in vehicula tortor. In ultrices
+neque a pellentesque facilisis. Donec euismod, erat a pharetra
+sollicitudin, sem purus sollicitudin nunc, nec ornare erat sapien vel
+nisi. Aliquam erat volutpat. Quisque vel gravida ipsum. Nulla a risus
+eget sapien fermentum pulvinar sit amet vel sapien. Pellentesque
+aliquet nulla vel diam fringilla, maximus consequat est bibendum.
+Aliquam at congue arcu.</string>
+</resources>

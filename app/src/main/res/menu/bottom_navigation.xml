@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/st_home"
+        android:icon="@drawable/st_home"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/st_matches"
+        android:icon="@drawable/st_matches"
+        android:title="Matches"/>
+
+    <item
+        android:id="@+id/st_news"
+        android:icon="@drawable/st_news"
+        android:title="News"/>
+
+    <item
+        android:id="@+id/st_shp"
+        android:icon="@drawable/st_shop"
+        android:title="Shop"/>
+</menu>
